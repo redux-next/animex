@@ -38,11 +38,11 @@ function Footer() {
             className={`flex cursor-pointer  items-end text-[30px] spacing-[1px] text-white font-black `}
           >
             <span className="text-blue-800  font-black">A</span>
-            NIMΞX
+            NIMETRIX
           </h1>
 
           <div className="flex gap-1">
-            <a
+            {/* <a
               href="https://ko-fi.com/ottoprogrammer"
               target="_blank"
               aria-label="Support Me"
@@ -57,7 +57,7 @@ function Footer() {
               className="tool rounded-full border-[2px] cursor-pointer border-white p-2 hover:bg-blue-700 transition-all ease-in-out duration-500 hover:-translate-y-1 text-[#ffffff]"
             >
               <Icon icon="ic:baseline-discord" />
-            </a>
+            </a> */}
             <span
               aria-label="Github"
               className="tool rounded-full border-[2px] cursor-pointer border-white p-2 hover:bg-blue-700 transition-all ease-in-out duration-500 hover:-translate-y-1 text-[#ffffff]"
@@ -76,16 +76,18 @@ function Footer() {
         <hr className="my-4 border-gray-200 sm:mx-auto dark:border-gray-400 lg:my-6 z-[1] relative" />
         <div className="flex flex-col gap-2">
           <span className="block  text-gray-200 text-center z-[1]  relative">
-            Animex does not store any files on our server, we only linked to the
+            Animetrix does not store any files on our server, we only linked to the
             media which is hosted on 3rd party services.
           </span>
 
           <span className="block text-sm text-gray-400 text-center z-[1] relative">
-            © 2023{" "}
+            © 2024{" "}
             <a href="#" className="hover:underline">
-              AnimexStream™
+              ANIMETRIX™ Streaming Services
             </a>
             . All Rights Reserved.
+            <br />
+            <h4>Developed by GG (7 Devs Group)</h4>
           </span>
         </div>
       </div>

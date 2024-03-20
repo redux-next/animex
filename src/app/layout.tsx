@@ -174,7 +174,7 @@ export default function RootLayout({
               href="/"
               className="btn btn-ghost normal-case text-xl rounded-full"
             >
-              ANIMEX
+              ANIMETRIX
             </Link>
           </div>
           <div className="navbar-end">

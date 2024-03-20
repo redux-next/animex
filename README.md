@@ -39,4 +39,4 @@ Consider showing some support with a cup of coffee.
 <br/>
 <!-- LICENSE -->
 
-Copyright © 2023 Otto Programmer
+Copyright © 2023 Otto Programmer# animetrixxx
